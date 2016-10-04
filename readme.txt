@@ -1,0 +1,1 @@
+This is a collection of simple programs I wrote to help get accustomed to c++ syntax.
